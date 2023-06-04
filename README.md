@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! My name is Himanshu :)</h1>
-<h3 align="center">I am a programmer, and I copy-paste a lot.</h3>
+<h3 align="center">I turn Monster Energy into code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu070&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu070" /> </p>
 
